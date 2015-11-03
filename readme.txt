@@ -1,4 +1,7 @@
- This sample project demonstrates the below:
+changes made thru branch1
+
+
+This sample project demonstrates the below:
 
 1.) Verifying fingerprints from file.
 2.) Identifying fingerprints from database.
