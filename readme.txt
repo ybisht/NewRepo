@@ -1,4 +1,3 @@
-Change No 1
 This change is newly added after branch checkout
 Change No 2
 This sample project demonstrates the below:
