@@ -1,5 +1,5 @@
 This change is newly added after branch checkout
-Change No 2
+Change No 2 (edited)
 This sample project demonstrates the below:
 
 1.) Verifying fingerprints from file.
