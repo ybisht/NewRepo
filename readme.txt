@@ -1,5 +1,14 @@
 This change is newly added after branch checkout
 Change No 2 (edited)
+changes made thru branch1
+
+change no 2
+
+undo git add
+
+branch Of java Simple test
+
+>>>>>>> origin/branchofJavaSimple
 This sample project demonstrates the below:
 Branch Changes after master got changed
 1.) Verifying fingerprints from file.
