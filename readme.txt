@@ -1,7 +1,7 @@
 Change No 1
 Change No 2
 This sample project demonstrates the below:
-
+Branch Changes after master got changed
 1.) Verifying fingerprints from file.
 2.) Identifying fingerprints from database.
 
