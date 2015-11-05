@@ -1,4 +1,6 @@
 branch Of java Simple test
+comment 1
+comment 2
 
 This sample project demonstrates the below:
 1.) Verifying fingerprints from file.
